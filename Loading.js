@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export default function Loading(){
     return <View style={styles.container}>
-        <Text style={styles.text}>산책 갈 수 있을까?</Text>
+        <Text style={styles.text}>날씨 정보를 가져오는 중</Text>
     </View>
 }
 
